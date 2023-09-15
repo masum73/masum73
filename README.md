@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a freelance project and a personal project of mine.<br><br>🌱 I’m currently learning Nest JS, Next JS, Mongoose and Redux<br><br>👨‍💻 Some of my projects are available at https://masumrahman.netlify.com/<br><br>⚡ Fun fact:  I think I'm funny</p>
+<p align="left">🔭 I’m currently working on a freelance project and a personal project of mine.<br><br>🌱 I’m currently learning Nest JS, Next JS, Mongoose, Redux and Cypress<br><br>👨‍💻 Some of my projects are available at https://masumrahman.netlify.com/<br><br>⚡ Fun fact:  I think I'm funny</p>
 
 ###
 
