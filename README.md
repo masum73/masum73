@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Masum Rahman and I'm a SQA engineer by profession with a deep passion for web development.</h2>
+<h2 align="left">Hi 👋 My name is Masum and I'm a SQA engineer by profession with a deep passion for web development.</h2>
 
 ###
 
